@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:HandGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\PokerHandChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:PokerHandChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:HandPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\FlushChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:FlushChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\StraightChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:StraightChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\ScoringRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:ScoringRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\BlindRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:BlindRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\RewardRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:RewardRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\PokerHandChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:PokerHandChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:HandPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\ScoringRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:ScoringRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\StraightChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:StraightChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:HandGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\BlindRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:BlindRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\RewardRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:RewardRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\FlushChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:FlushChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE7B739-4F28-43E2-A111-D3AD1C0FC755}|ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.vcxproj|solutionrelative:ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 321,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandGenerator.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandGenerator.cpp",
+              "RelativeDocumentMoniker": "HandGenerator.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandGenerator.cpp",
+              "RelativeToolTip": "HandGenerator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:25:06.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HandPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandPlayer.cpp",
+              "RelativeDocumentMoniker": "HandPlayer.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandPlayer.cpp",
+              "RelativeToolTip": "HandPlayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:24:51.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokerHandChecker.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\PokerHandChecker.cpp",
+              "RelativeDocumentMoniker": "PokerHandChecker.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\PokerHandChecker.cpp",
+              "RelativeToolTip": "PokerHandChecker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:24:40.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlushChecker.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\FlushChecker.cpp",
+              "RelativeDocumentMoniker": "FlushChecker.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\FlushChecker.cpp",
+              "RelativeToolTip": "FlushChecker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:24:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:22:37.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StraightChecker.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\StraightChecker.cpp",
+              "RelativeDocumentMoniker": "StraightChecker.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\StraightChecker.cpp",
+              "RelativeToolTip": "StraightChecker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:24:09.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoringRule.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\ScoringRule.cpp",
+              "RelativeDocumentMoniker": "ScoringRule.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\ScoringRule.cpp",
+              "RelativeToolTip": "ScoringRule.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:23:50.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlindRule.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\BlindRule.cpp",
+              "RelativeDocumentMoniker": "BlindRule.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\BlindRule.cpp",
+              "RelativeToolTip": "BlindRule.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:23:37.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RewardRule.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\RewardRule.cpp",
+              "RelativeDocumentMoniker": "RewardRule.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\RewardRule.cpp",
+              "RelativeToolTip": "RewardRule.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:23:22.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\GameManager.cpp",
+              "RelativeDocumentMoniker": "GameManager.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\GameManager.cpp",
+              "RelativeToolTip": "GameManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:22:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PokerHandChecker.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\PokerHandChecker.h",
+              "RelativeDocumentMoniker": "PokerHandChecker.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\PokerHandChecker.h",
+              "RelativeToolTip": "PokerHandChecker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:07:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Hand.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\Hand.h",
+              "RelativeDocumentMoniker": "Hand.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\Hand.h",
+              "RelativeToolTip": "Hand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:06:14.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HandGenerator.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandGenerator.h",
+              "RelativeDocumentMoniker": "HandGenerator.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandGenerator.h",
+              "RelativeToolTip": "HandGenerator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:06:31.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HandPlayer.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandPlayer.h",
+              "RelativeDocumentMoniker": "HandPlayer.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\HandPlayer.h",
+              "RelativeToolTip": "HandPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:06:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StraightChecker.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\StraightChecker.h",
+              "RelativeDocumentMoniker": "StraightChecker.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\StraightChecker.h",
+              "RelativeToolTip": "StraightChecker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:08:06.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScoringRule.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\ScoringRule.h",
+              "RelativeDocumentMoniker": "ScoringRule.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\ScoringRule.h",
+              "RelativeToolTip": "ScoringRule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:08:23.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\GameManager.h",
+              "RelativeDocumentMoniker": "GameManager.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\GameManager.h",
+              "RelativeToolTip": "GameManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T16:59:36.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlindRule.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\BlindRule.h",
+              "RelativeDocumentMoniker": "BlindRule.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\BlindRule.h",
+              "RelativeToolTip": "BlindRule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:08:41.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RewardRule.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\RewardRule.h",
+              "RelativeDocumentMoniker": "RewardRule.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\RewardRule.h",
+              "RelativeToolTip": "RewardRule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:08:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlushChecker.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\FlushChecker.h",
+              "RelativeDocumentMoniker": "FlushChecker.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\FlushChecker.h",
+              "RelativeToolTip": "FlushChecker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:07:42.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.cpp",
+              "RelativeDocumentMoniker": "ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila\\ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.cpp",
+              "RelativeToolTip": "ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T12:55:00.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
