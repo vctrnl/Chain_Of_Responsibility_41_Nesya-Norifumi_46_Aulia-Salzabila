@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BlindRule.cpp" />
-    <ClCompile Include="ChainOfResponsibility-Balatro-41-NesyaNorifumi-46-AuliaSalzabila.cpp" />
     <ClCompile Include="FlushChecker.cpp" />
     <ClCompile Include="GameManager.cpp" />
     <ClCompile Include="HandGenerator.cpp" />
