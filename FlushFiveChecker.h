@@ -1,14 +1,14 @@
 #pragma once
 #include "PokerHandChecker.h"
 
-class FlushChecker : public PokerHandChecker {
+class FlushFiveChecker : public PokerHandChecker {
 public:
     HandRank check(const Hand& hand) override {
-        std::cout << "Checking Flush...\n";
+        std::cout << "Checking Flush Five...\n";
 
-        if (hand.presetRank == HandRank::FLUSH) {
-            std::cout << "Flush detected!\n";
-            return HandRank::FLUSH;
+        if (hand.presetRank == HandRank::FLUSH_FIVE) {
+            std::cout << "Flush Five detected!\n";
+            return HandRank::FLUSH_FIVE;
         }
 
         if (nextChecker != nullptr) {

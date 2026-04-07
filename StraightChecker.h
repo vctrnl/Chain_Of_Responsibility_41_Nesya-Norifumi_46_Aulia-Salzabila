@@ -3,8 +3,18 @@
 
 class StraightChecker : public PokerHandChecker {
 public:
-    HandRank check(const Hand& hand) override;
+    HandRank check(const Hand& hand) override {
+        std::cout << "Checking Straight...\n";
 
-private:
-    bool isStraight(const Hand& hand);
+        if (hand.presetRank == HandRank::STRAIGHT) {
+            std::cout << "Straight detected!\n";
+            return HandRank::STRAIGHT;
+        }
+
+        if (nextChecker != nullptr) {
+            return nextChecker->check(hand);
+        }
+
+        return HandRank::HIGH_CARD;
+    }
 };

@@ -1,20 +1,18 @@
 #pragma once
 #include "Hand.h"
-
-enum class HandRank {
-    HIGH_CARD,
-    PAIR,
-    STRAIGHT,
-    FLUSH
-};
+#include "HandRank.h"
+#include <iostream>
 
 class PokerHandChecker {
-public:
-    virtual ~PokerHandChecker() = default;
-    virtual HandRank check(const Hand& hand) = 0;
-
-    void setNext(PokerHandChecker* next);
-
 protected:
     PokerHandChecker* nextChecker = nullptr;
+
+public:
+    virtual ~PokerHandChecker() {}
+
+    void setNext(PokerHandChecker* next) {
+        nextChecker = next;
+    }
+
+    virtual HandRank check(const Hand& hand) = 0;
 };
