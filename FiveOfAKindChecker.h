@@ -1,14 +1,20 @@
 #pragma once
-#include <vector>
-#include "HandRank.h"
+#include "PokerHandChecker.h"
 
-struct Card {
-    int rank = 0; // 1-13
-    int suit = 0; // 0-3
-};
+class FiveOfAKindChecker : public PokerHandChecker {
+public:
+    HandRank check(const Hand& hand) override {
+        std::cout << "Checking Five Of A Kind...\n";
 
-struct Hand {
-    int value = 0;
-    std::vector<Card> cards;
-    HandRank presetRank = HandRank::HIGH_CARD;
+        if (hand.presetRank == HandRank::FLUSH) {
+            std::cout << "Five Of A Kind detected!\n";
+            return HandRank::FIVE_OF_A_KIND;
+        }
+
+        if (nextChecker != nullptr) {
+            return nextChecker->check(hand);
+        }
+
+        return HandRank::HIGH_CARD;
+    }
 };
