@@ -2,6 +2,9 @@
 #include "ScoringRule.h"
 #include <iostream>
 
+#include "ScoringRule.h"
+#include <iostream>
+
 #include "RoyalFlushChecker.h"
 #include "FlushFiveChecker.h"
 #include "FlushHouseChecker.h"
@@ -9,6 +12,7 @@
 #include "StraightFlushChecker.h"
 #include "FourOfAKindChecker.h"
 #include "FullHouseChecker.h"
+#include "FiveOfAKindChecker.h"
 #include "FlushChecker.h"
 #include "StraightChecker.h"
 #include "ThreeOfAKindChecker.h"
@@ -56,7 +60,7 @@ int ScoringRule::convertRankToScore(HandRank rank) {
         case HandRank::HIGH_CARD: return 5;
         case HandRank::PAIR: return 10;
         case HandRank::TWO_PAIR: return 20;
-        case HandRank::THREE_OF_A_KIND: return 30;
+        case HandRank::THREE_OF_A_KIND: return 30; //trhee of kind check
         case HandRank::STRAIGHT: return 40;
         case HandRank::FLUSH: return 50;
         case HandRank::FULL_HOUSE: return 60;
